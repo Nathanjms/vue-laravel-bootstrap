@@ -12,3 +12,4 @@ docker run --rm \
 `sail up`
 `sail artisan key:generate`
 `sail npm install`
+`sail npm run dev`
